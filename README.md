@@ -12,6 +12,8 @@ Para instalar y configurar el proyecto, sigue estos pasos:
     ```bash
     pip install pytest - requests
     ```
+Ejecuta las pruebas con el siguiente comando en la terminal:
+pytest create_kit_name_kit_test.py
 
 ## Uso
 El proyecto incluye varias funciones y pruebas. Aquí hay un resumen de las funciones principales:
